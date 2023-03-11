@@ -12,7 +12,7 @@ Calling Web API Using HttpClient (RESTful API)
 + [multipart-data-upload](https://learn.microsoft.com/en-us/answers/questions/125155/multipart-data-upload)
 + [Content-Disposition](https://www.c-sharpcorner.com/article/upload-any-file-using-http-post-multipart-form-data/)
 + [ByteArrayContent](https://stackoverflow.com/questions/71335381/http-client-upload-file-c-sharp)
-+ [Using Streams with HttpClient](https://code-maze.com/using-streams-with-httpclient-to-improve-performance-and-memory-usage/)
++ [StreamContent](https://code-maze.com/using-streams-with-httpclient-to-improve-performance-and-memory-usage/)
 + [WebClient vs. HttpClient vs. HttpWebRequest](https://www.infoworld.com/article/3198673/when-to-use-webclient-vs-httpclient-vs-httpwebrequest.html)
 + https://www.infoq.com/articles/creating-http-sdks-dotnet-6/
 + https://dzone.com/articles/a-few-great-ways-to-consume-restful-apis-in-c
